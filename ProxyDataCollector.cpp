@@ -12,7 +12,7 @@ using namespace  std;
 
 #define LOG_DIR "../LogResources/"
 
-
+//test asdd
 
 volatile bool bShouldExit = false;
 volatile bool bShouldSuspend = false;
